@@ -1,33 +1,35 @@
 body {
     background-color:#D5E1EF;
-    font-size: 15px;
-    
+       
 }
-div {
+main {
     background-color: white;
     width: 350px;
     height: 500px;
     margin: auto;
     margin-top: 60px;
-    border-radius: 15px;
+    border-radius: 1.5em;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.785);
 
 }
 img {
     width: 300px;
     border-radius:10% ;
-    padding: 20px 10px 0 22px ;
+    padding: 1.5em ;
    
 }
-img + p {
+h1 {
     color: darkblue;
-    font-size: 20px;
+    text-align: center;
+    font-size: 1.3em;
     font-weight: 700;   
+
 
 }
 p {
     text-align: center;
     color: rgb(157, 153, 153);
-    font-size: 15px;
+    font-size: 1em;
     font-weight: 400;
     font-family: 'Outfit', sans-serif;
 }

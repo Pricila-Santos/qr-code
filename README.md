@@ -1,4 +1,4 @@
-# qr-code
+# Qr-code
 
  Desafio Qr-code 
  

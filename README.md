@@ -2,7 +2,7 @@
 
  Desafio Qr-code 
  
-Envio do desafio feito no Frontend Mentor.
+Conclusão do desafio feito no Frontend Mentor.
 
 Feito com Html 5 e Css3 .<br>
 
